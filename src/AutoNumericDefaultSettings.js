@@ -28,7 +28,7 @@
  */
 
 import AutoNumeric from './AutoNumeric';
-import AutoNumericOptions from './AutoNumericOptions';
+import { AutoNumericOptions } from './AutoNumericOptions';
 
 /* eslint no-unused-vars: 0 */
 
